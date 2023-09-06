@@ -1,0 +1,29 @@
+div{
+    border: SOLID black 2px;
+    display: inline-block;
+    padding: 40PX;
+}
+#BOX1{
+    background-color: blue;
+    background-image: url(/background-img/photo.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#BOX2{
+    background-color: green;
+    background-image: url(/background-img/photo.jpg);
+    background-size: cover;
+    
+}
+#BOX3{
+    background-color: red;
+    background-image: url(/background-img/photo.jpg);
+    background-size: auto;
+    
+}
+#BOX4{
+    background-color: yellow;
+    background-image: url(/background-img/photo.jpg);
+    background-size: 40%;
+}

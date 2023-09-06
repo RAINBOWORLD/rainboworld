@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+header{
+    font-size: 34px;
+}
+div{
+    border: solid;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+}
+#containar{
+    height: 300px;
+    width: 400px;
+}
+#box1{
+    background-color: blue;
+}
+#box2{
+    background-color: green;
+}
+#box3{
+    background-color: greenyellow;
+}
+#box4{
+    background-color: yellow;
+}
+#box5{
+    background-color: red;
+}
+#box6{
+    background-color: orange;
+}
